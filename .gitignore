@@ -1,0 +1,25 @@
+# 基本
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+venv/
+env/
+
+# 生成されるレポート
+github_report_*.html
+github_data_*.json
+github_stats_*.json
+github_quick_stats.json
+github_detailed_stats.json
+
+# IDEファイル
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# テスト関連
+.pytest_cache/
+.coverage
+htmlcov/

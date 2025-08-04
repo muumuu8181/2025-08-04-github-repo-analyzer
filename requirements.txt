@@ -1,0 +1,7 @@
+# GitHub Repository Analyzer の依存関係
+# Python標準ライブラリのみ使用のため、追加パッケージは不要
+
+# 開発用（オプション）
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.0.0
